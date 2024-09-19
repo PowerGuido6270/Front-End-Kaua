@@ -1,0 +1,32 @@
+body{
+   background-color: crimson; /*cor de fundo*/
+}
+
+header {
+   background-color:firebrick; /* cor de fundo do cabeçalho*/
+   color:black; /* cor das letras */
+   padding: 15px; /* preechimento do cabeçalho */
+   text-align: center; /* alinhamento no centro */
+   font-family: Arial, Helvetica, sans-serif; /* tipo de letra */
+
+}
+
+article{
+   background-color: khaki;
+   font-size: 22px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.paragrafo1{
+   color:midnightblue;
+   font-family: monospace;
+   text-align: 30px;
+}
+
+.paragrafo2{
+   color:purple;
+   font-family:'Times New Roman', Times, serif;
+   background-color: yellow;
+   
+}
